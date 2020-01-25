@@ -1,0 +1,76 @@
+img.logo{
+    max-width: 140px;
+    float: left;
+}
+
+.menu-header{
+    background: #80bc12;
+    border-color: #75a914;
+    border-radius: 0;
+}
+
+.products{}
+.title{
+    font: 800 2em "Open Sans";
+    margin: 20px 4px;
+    color: #80bc12;
+}
+.product{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.product img{}
+.product a{
+    background-color: #49c659;
+    color: #FFF;
+    text-decoration: none;
+    max-width: 100%;
+    padding: 6px 24px;
+}
+.product h2{
+    font: 200 1em "Open Sans";
+    margin: 6px;
+    text-transform: uppercase;
+}
+.product a:hover{
+    background: #378842;
+}
+.img-cart{
+    max-width: 60px;
+}
+.total-cart{
+     float: right;
+     padding: 20px;
+     font: 600 2.2em "Open Sans";
+     background: #80bc12;
+     color: #FFF;
+ }
+.total-cart span{}
+.finish-card{
+    float: right;
+    width: 100%;
+}
+.finish-card a{
+      background: #2d416c;
+      padding: 10px 20px;
+      color: #FFF;
+      font-weight: bold;
+      margin: 30px 0;
+      float: right;
+  }
+.finish-card a:hover{
+    background: #28344f;
+}
+.cart-action-item{
+    font: 800 2em "Open Sans";
+    color: #80bc12;
+}
+.btn-form{
+    background: #80bc12;
+    color: #FFF;
+    text-transform: uppercase;
+    width: 100%;
+}
+.form-custom{
+    margin-bottom: 50px;
+}
