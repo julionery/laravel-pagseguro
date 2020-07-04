@@ -1,5 +1,11 @@
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="150px" src="https://github.com/julionery/docs/blob/master/geral/laravel-pagseguro.png?raw=true">
+</h3>
 <h1 align="center">Laravel + PagSeguro</h1>
 <h3 align="center">Loja virtual com integração com o meio de pagamento PagSeguro.</h3>
+
+### :page_with_curl: Sobre:
+O laravel-pagseguro consome a API do PagSeguro e prove uma forma simples de gerar o pagamento, e notificar sobre as suas transações.
 
 ### :rocket: Tecnologias:
 - [PHP](https://www.php.net/)
@@ -14,6 +20,13 @@
 - [Composer](https://getcomposer.org/)
 - [Migrations](https://laravel.com/docs/7.x/migrations)
 - [Seeds](https://laravel.com/docs/7.x/seeding)
+- [PagSeguro](https://acesso.pagseguro.uol.com.br/?dest=http://pagseguro.uol.com.br/preferencias/integracoes.jhtml)
+
+<h2 align="center">Demonstração</h2>
+
+![](https://github.com/julionery/docs/blob/master/geral/laravel-pagseguro-1.PNG?raw=true)
+
+![](https://github.com/julionery/docs/blob/master/geral/laravel-pagseguro-2.PNG?raw=true)
 
 ## :link: Como contribuir
 
